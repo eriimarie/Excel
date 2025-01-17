@@ -1,0 +1,22 @@
+Description: This portfolio highlights the skills and experience I gained during my time at NBCUniversal Peacock 
+It showcase exposure to Decision science, research, and operations analysis.
+This involved working with various departments such as software engineering, data engineering, automation, and research and UX/UI design. 
+I also gained a solid understanding of testing and analytics related to project management and collaborating with PMOs.
+To showcase my skills, I have created dummy data that reflects the type of work I was exposed to.
+While this data is not real, it serves as an example of the type of work I engaged with and the knowledge 
+I acquired during my time there.
+
+This table serve as data visualtion for Higher management to show Budget + Trials 
+| Client        | Department             | Test Type      | Test Result   | Budget   | Project       | Trial  |
+|---------------|------------------------|----------------|---------------|----------|---------------|--------|
+| Roku          | UX/UI Design           | Functional     | Pass          | 10000    | Project A     | 5      |
+| Samsung       | Data Engineer          | Regression     | Fail          | 5000     | Project B     | 3      |
+| Vizio         | Software Engineer      | Integration    | Progress      | 15000    | Project C     | 4      |
+| Smart TV      | Automation             | Load           | Done          | 20000    | Project D     | 6      |
+| Xfinity       | Research               | Usability      | Pass          | 12000    | Project E     | 2      |
+| Roku          | Data Optimization      | Functional     | Fail          | 8000     | Project F     | 7      |
+| Samsung       | UX/UI Design           | Regression     | Progress      | 15000    | Project G     | 5      |
+| Vizio         | Automation             | Load           | Pass          | 18000    | Project H     | 8      |
+| Smart TV      | Software Engineer      | Integration    | Fail          | 6000     | Project I     | 3      |
+| Xfinity       | Data Engineer          | Regression     | Done          | 11000    | Project J     | 4      |
+
